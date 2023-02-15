@@ -12,7 +12,7 @@ const Hero = (props) => (
         Welcome To My Portfolio
       </SectionTitle>
       <SectionText>
-        My name is Tyler Jefferson, I am primarily a MERN Stack JavaScript developer. I have a lot of love for coding and strive to learn new languages and technologies whenever the opportunity presents itself!
+        My name is Tyler Jefferson, I am primarily a MERN Stack JavaScript developer. I have a lot of love for coding, and strive to learn new languages and technologies whenever the opportunity presents itself!
       </SectionText>
       <a href="mailto:TylerRJefferson00@iCloud.com">
         <Button>Email Me</Button>
